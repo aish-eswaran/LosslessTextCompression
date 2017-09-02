@@ -1,0 +1,7 @@
+Roses	00
+blue.	010
+Today	011
+day?	100
+blue!	101
+This	110
+red.	111

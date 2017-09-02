@@ -1,0 +1,4 @@
+Violets	00
+monday.	01
+enjoying	10
+beautiful	11

@@ -1,0 +1,1 @@
+Data mining can be viewed as a result of the natural evolution of information technology. The database system industry has witnessed an evolutionary path in the development of the following functionalities (Figure 1.1): data collection and database creation, data management (including data storage and retrieval, and database
